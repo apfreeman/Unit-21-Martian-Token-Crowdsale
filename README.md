@@ -13,32 +13,18 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. I'll launch a crow
 The requiements advise to copile the contract by using compiler version 0.5.0. Due to updates in the OpenZepplin import files, the contract needs to be compiled with version 0.5.5. As such this version has been used for consitency in all .sol files. 
 
 
-### Create the KaseiCoin Token Contract
+### Create and compile the KaseiCoin Token, Crowdsale and Deployer Contracts
 
-![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/1_coin_compiled.PNG?raw=true)
-
-
-### Create the KaseiCoin Crowdsale Contract
-
-![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/2_contract_compiled.PNG?raw=true)
+![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/capture1_Import_Accounts.gif?raw=true)
 
 
-### Create the KaseiCoin Deployer Contract
+### Deploy and Test the Crowdsale on a Local Blockchain
 
-![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/3_deployer_contract_compiled.PNG?raw=true)
-
-In this subsection, you’ll create the KaseiCoin deployer contract. Start by uncommenting the `KaseiCoinCrowdsaleDeployer` contract in the provided `KaseiCoinCrowdsale.sol` starter code.
-
-Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to store the addresses of the `KaseiCoin` and `KaseiCoinCrowdsale` contracts, which this contract will deploy. Finally, you’ll complete the `KaseiCoinCrowdsaleDeployer` contract. To do so, complete the following steps:
-
-
-### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
-
-In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
-
-> **Important:** Record a short video or take screenshots that illustrate the following steps as evidence of your deployed crowdsale contract.
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+
+![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob//Images/capture2_Deploy_Contracts.gif?raw=true)
+
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
