@@ -28,7 +28,8 @@ The requiements advise to copile the contract by using compiler version 0.5.0. D
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
-[Click Here - Deploy Crowdsale Video](https://screenrec.com/share/f4kxuhTonB)
+[![Click Here - Deploy Crowdsale Video](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/4_deploy_thumbnail.PNG?raw=true)](https://screenrec.com/share/f4kxuhTonB)
+
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
