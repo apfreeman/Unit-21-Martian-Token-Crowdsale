@@ -28,6 +28,8 @@ The requiements advise to copile the contract by using compiler version 0.5.0. D
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
+https://screenrec.com/share/f4kxuhTonB
+
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
