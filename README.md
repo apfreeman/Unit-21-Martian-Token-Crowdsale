@@ -27,9 +27,7 @@ The requiements advise to copile the contract by using compiler version 0.5.0. D
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
-
-![](https://github.com/apfreeman/Unit-21-Martian-Token-Crowdsale/blob/main/Images/capture_REC.mp4?raw=true)
-
+https://user-images.githubusercontent.com/93755896/164152340-6a561ebb-e942-4c78-9376-d7637204d8f3.mp4
 
 
 
