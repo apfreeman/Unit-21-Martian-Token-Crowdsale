@@ -38,6 +38,10 @@ https://user-images.githubusercontent.com/93755896/164362236-27f30ce6-5719-4783-
 
 https://user-images.githubusercontent.com/93755896/164365121-3be32eed-83d7-467a-a352-2758081f710b.mp4
 
+4. Import KaseiCoins into wallet
+
+https://user-images.githubusercontent.com/93755896/164366526-ee748063-ccef-4927-a179-08b7df1965bd.mp4
+
 
 
 
