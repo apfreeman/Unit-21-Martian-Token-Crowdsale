@@ -10,7 +10,9 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. I'll launch a crow
 
 ## Important Note
 
-The requiements advise to copile the contract by using compiler version 0.5.0. Due to updates in the OpenZepplin import files, the contract needs to be compiled with version 0.5.5. As such this version has been used for consitency in all .sol files. 
+The requiements advise to copile the contract by using compiler version 0.5.0. Due to updates in the OpenZepplin import files, the contract needs to be compiled with version 0.5.5. As such this version has been used for consitency in all .sol files.
+
+All video files have audio so please ensure speaker is enabled in both mp4 player and on PC.
 
 ### Create the KaseiCoin Token Contract
 
