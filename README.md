@@ -32,11 +32,11 @@ https://user-images.githubusercontent.com/93755896/164360046-81fcec10-8450-4d48-
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
+https://user-images.githubusercontent.com/93755896/164362236-27f30ce6-5719-4783-9dc7-e65ce5479d39.mp4
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
-
-
+https://user-images.githubusercontent.com/93755896/164365121-3be32eed-83d7-467a-a352-2758081f710b.mp4
 
 
 
